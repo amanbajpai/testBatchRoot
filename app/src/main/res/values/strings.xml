@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BatchRoot</string>
+    <string name="sms_message"><![CDATA[ From : %1$s<br/>%2$s]]></string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">2bGgSP7pwZqwhkB7cPEs0FbhcZFLbH1LfPgfTxb0</string>
+    <string name="back4app_client_key">86xeX5tzjbudg0iqzovNdn39usVkd8pllmOnxeeG</string>
+
+</resources>
